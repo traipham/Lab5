@@ -6,8 +6,8 @@
 
 ## Part 1:
 
-LINK TO YOUR PUBLISHED SITE
+https://traipham.github.io/Lab5.github.io/
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
+https://github.com/traipham/github-actions-for-ci
